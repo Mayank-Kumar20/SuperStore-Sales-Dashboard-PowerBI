@@ -14,7 +14,7 @@ The objective can be broken down into the following detailed components:
 ## Dashboard
 
 ## Forecasting Dashboard
-
+![Forecasting](https://github.com/Mayank-Kumar20/SuperStore-Sales-Dashboard-PowerBI/assets/117710651/1736a5e5-9d09-4c6a-a1bf-a6142cc4b76e)
 ## Insights
 ➜ COD is more preferred mode of payment than others (~43%)
 
