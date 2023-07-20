@@ -17,7 +17,11 @@ The objective can be broken down into the following detailed components:
 
 ## Insights
 ➜ COD is more preferred mode of payment than others (~43%)
+
 ➜ The West region has the highest sales (~33%)
+
 ➜ The consumer segment has nearly half of sales in comparison to other segments (~48%)
+
 ➜ In the month of October, profit is higher in comparison to sales.
+
 **_With the help of forecasted values, we can predict future performance_**
