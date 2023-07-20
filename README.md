@@ -11,3 +11,13 @@ The objective can be broken down into the following detailed components:
 **3. Sales Forecasting:** Leverage historic data and apply time series analysis to generate sales forecasts for next 15 days
 
 **4. Actionable Insights and Recommendations:** End goal is to share valuable insights and actionable information that can drive strategic decision-making and support the supermarket's goals for growth, efficiency, and customer satisfaction
+## Dashboard
+
+## Forecasting Dashboard
+
+## Insights
+➜ COD is more preferred mode of payment than others (~43%)
+➜ The West region has the highest sales (~33%)
+➜ The consumer segment has nearly half of sales in comparison to other segments (~48%)
+➜ In the month of October, profit is higher in comparison to sales.
+**_With the help of forecasted values, we can predict future performance_**
